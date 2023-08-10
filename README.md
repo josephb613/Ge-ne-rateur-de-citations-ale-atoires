@@ -1,18 +1,22 @@
-# Random-quote-generator
+Générateur de citations aléatoires
 
 ## Description
 
-This is a website that generates random quotes when you click the button
+Il s'agit d'un site web qui génère des citations aléatoires lorsque vous cliquez sur le bouton.
 
-## live link
+## Lien en direct
 
-https://thuotracy.github.io/random-quote-generator/
+## Langages
 
-##  Languages 
-* CSS
-* HTML 
-* Javascript
+- CSS
+- HTML
+- Javascript
 
-## Support and contact details
+## Fonctionnalité en cours de développement : la possibilité de faire un retour en arrière
 
-Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
+Nous travaillons actuellement sur une fonctionnalité passionnante qui permettra bientôt aux utilisateurs de revenir en arrière dans l'historique des citations précédentes. Cette fonctionnalité améliorera encore davantage l'expérience interactive et personnalisée offerte par notre générateur de citations aléatoires.
+
+## Support et coordonnées
+
+Si vous rencontrez des problèmes,
+veuillez me contacter à cette adresse e-mail : josephbasix@gmail.com
