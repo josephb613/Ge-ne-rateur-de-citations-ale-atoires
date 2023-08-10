@@ -1,2 +1,2 @@
-# Ge-ne-rateur-de-citations-ale-atoires
+# Generateur-de-citations-aléatoires
 Générateur de citations aléatoires
