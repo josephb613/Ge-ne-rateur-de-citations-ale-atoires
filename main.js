@@ -32,6 +32,18 @@ let quote = [
 "Soyez fier de chaque petit progrès. Les victoires modestes construisent des réalisations majeures.",
 "Lorsque vous doutez de vous-même, rappelez-vous de toutes les fois où vous avez triomphé.",
  "Le succès est le résultat des choix que vous faites aujourd'hui. Choisissez avec sagesse.",
+"La motivation vient de la poursuite d'un but qui a du sens.",
+"Se fixer des objectifs élevés est la clé de la motivation.",
+"La motivation naît du désir profond de se réaliser.",
+"Trouver sa passion est le meilleur moteur de motivation.",
+"Rien de grand ne s'est accompli sans motivation persistante." ,
+"L'envie d'apprendre et de progresser motive à se dépasser.",
+"Croire en soi est indispensable pour rester motivé.",
+"Rien n'est impossible quand on a la motivation d'y arriver.",
+"Se comparer aux autres tue la motivation, se comparer à soi-même la stimule.",
+"Lâcher prise sur ce qu'on ne contrôle pas libère de l'énergie pour se motiver.",
+
+
 ];
 
 btn.addEventListener('click',aléatoire )
