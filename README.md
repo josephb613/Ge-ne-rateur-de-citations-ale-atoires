@@ -20,3 +20,4 @@ Nous travaillons actuellement sur une fonctionnalité passionnante qui permettra
 
 Si vous rencontrez des problèmes,
 veuillez me contacter à cette adresse e-mail : josephbasix@gmail.com
++243 8127------
