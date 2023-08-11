@@ -23,7 +23,7 @@ Veuillez me contacter à cette adresse e-mail : josephbasix@gmail.com
 
 ## Features 
 
-# Lors du clique du bouton créer un effet d'explosion : Voici quelques étapes pour créer un effet d'explosion lors du clic sur un bouton en programmation:
+### Lors du clique du bouton créer un effet d'explosion : Voici quelques étapes pour créer un effet d'explosion lors du clic sur un bouton en programmation:
 
 - Ajouter un bouton à votre interface (par exemple un bouton "Exploser") 
 
